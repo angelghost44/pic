@@ -3259,7 +3259,7 @@ botui.message.bot({
 }).then(function () {
     return botui.message.bot({
         delay: 1000,
-        content: "我是 Kinoko，你也可以叫我蘑菇君🍄"
+        content: "我是 Felici"
     })
 }).then(function () {
     return botui.message.bot({
