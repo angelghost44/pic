@@ -3307,7 +3307,7 @@ var other = function () {
     }).then(function () {
         return botui.message.bot({
             delay: 1500,
-            content: "不过还是比较熟悉主机DIY与折腾系统，最擅长白嫖o(*￣︶￣*)o"
+            content: "不过还是比较喜欢主机DIY与折腾系统，最擅长白嫖o(*￣︶￣*)o"
         })
     }).then(function () {
         return botui.message.bot({
